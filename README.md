@@ -14,7 +14,7 @@ Moreover it gives you **free GPU** access to run your code.
 
 4. Open the Notebook named "PreprocessingData.ipynb", change /Data to your directory and Run.
 
-5. Open the Notebook named "PipelineTemplate.ipynb", change /Data to your directory and Run.
+5. Open the Notebook named "PipelineModels.ipynb", change /Data to your directory and Run.
 
 6. Check your directory
 
