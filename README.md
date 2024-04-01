@@ -8,7 +8,7 @@ Moreover it gives you **free GPU** access to run your code.
 ### Get started
 1. Copy the GitHub Repository Link: https://github.com/BoPDA1607/Team-EcoByte-Data-Driven
 
-2. Access Google Colab
+2. Access Google Colab: https://colab.research.google.com/
 
 3. Connect to the GitHub Repository
 
